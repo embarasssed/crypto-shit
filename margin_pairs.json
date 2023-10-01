@@ -1,0 +1,170 @@
+{
+    "symbol": "BNBBTC",
+    "price": "0.00926400",
+    "margin_enabled": true
+}
+{
+    "symbol": "TRXBTC",
+    "price": "0.00000268",
+    "margin_enabled": true
+}
+{
+    "symbol": "XRPBTC",
+    "price": "0.00001811",
+    "margin_enabled": true
+}
+{
+    "symbol": "ETHBTC",
+    "price": "0.06554000",
+    "margin_enabled": true
+}
+{
+    "symbol": "BNBUSDT",
+    "price": "246.00000000",
+    "margin_enabled": true
+}
+{
+    "symbol": "BTCUSDT",
+    "price": "26545.40000000",
+    "margin_enabled": true
+}
+{
+    "symbol": "ETHUSDT",
+    "price": "1739.64000000",
+    "margin_enabled": true
+}
+{
+    "symbol": "TRXUSDT",
+    "price": "0.07137000",
+    "margin_enabled": true
+}
+{
+    "symbol": "XRPUSDT",
+    "price": "0.48080000",
+    "margin_enabled": true
+}
+{
+    "symbol": "EOSBTC",
+    "price": "0.00002405",
+    "margin_enabled": true
+}
+{
+    "symbol": "EOSUSDT",
+    "price": "0.63900000",
+    "margin_enabled": true
+}
+{
+    "symbol": "LINKBTC",
+    "price": "0.00020170",
+    "margin_enabled": true
+}
+{
+    "symbol": "LINKUSDT",
+    "price": "5.35300000",
+    "margin_enabled": true
+}
+{
+    "symbol": "ONTBTC",
+    "price": "0.00000634",
+    "margin_enabled": true
+}
+{
+    "symbol": "ONTUSDT",
+    "price": "0.16850000",
+    "margin_enabled": true
+}
+{
+    "symbol": "ADABTC",
+    "price": "0.00001010",
+    "margin_enabled": true
+}
+{
+    "symbol": "ADAUSDT",
+    "price": "0.26830000",
+    "margin_enabled": true
+}
+{
+    "symbol": "BTCUSDC",
+    "price": "26527.36000000",
+    "margin_enabled": true
+}
+{
+    "symbol": "ETCUSDT",
+    "price": "15.39000000",
+    "margin_enabled": true
+}
+{
+    "symbol": "ETCBTC",
+    "price": "0.00057900",
+    "margin_enabled": true
+}
+{
+    "symbol": "LTCBTC",
+    "price": "0.00290800",
+    "margin_enabled": true
+}
+{
+    "symbol": "LTCUSDT",
+    "price": "77.18000000",
+    "margin_enabled": true
+}
+{
+    "symbol": "XLMBTC",
+    "price": "0.00000296",
+    "margin_enabled": true
+}
+{
+    "symbol": "XLMUSDT",
+    "price": "0.07870000",
+    "margin_enabled": true
+}
+{
+    "symbol": "USDCUSDT",
+    "price": "1.00060000",
+    "margin_enabled": true
+}
+{
+    "symbol": "XMRBTC",
+    "price": "0.00513100",
+    "margin_enabled": true
+}
+{
+    "symbol": "XMRUSDT",
+    "price": "136.10000000",
+    "margin_enabled": true
+}
+{
+    "symbol": "NEOBTC",
+    "price": "0.00029710",
+    "margin_enabled": true
+}
+{
+    "symbol": "NEOUSDT",
+    "price": "7.89000000",
+    "margin_enabled": true
+}
+{
+    "symbol": "ATOMBTC",
+    "price": "0.00033520",
+    "margin_enabled": true
+}
+{
+    "symbol": "ATOMUSDT",
+    "price": "8.90300000",
+    "margin_enabled": true
+}
+{
+    "symbol": "DASHBTC",
+    "price": "0.00117700",
+    "margin_enabled": true
+}
+{
+    "symbol": "DASHUSDT",
+    "price": "31.26000000",
+    "margin_enabled": true
+}
+{
+    "symbol": "ZECUSDT",
+    "price": "26.01000000",
+    "margin_enabled": true
+}
